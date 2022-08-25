@@ -1,0 +1,8 @@
+warcio
+configargparse
+bs4
+datetime
+requests
+langdetect
+lxml
+tqdm
